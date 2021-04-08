@@ -26,7 +26,7 @@
 <code><img width="40" height="40" src="https://img2.pngindir.com/20180806/pla/kisspng-visual-studio-2010-d%C3%A9veloppez-pour-le-web-avec-c-inicio-resyst-softwares-5b6887f22b0353.2037366115335772021762.jpg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <br><br>
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 Not Connect with Me </h3>
 
 <p align="center">
 &nbsp; <a href="https://twitter.com/ozlemiskenderr" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
