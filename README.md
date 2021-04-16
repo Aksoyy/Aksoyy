@@ -9,8 +9,8 @@
 - 🌱 &nbsp; Cryptology and Security Protocol Design
 - ☕ &nbsp; I believe, table tennis can be the ultimate solution for any stress.. 
 
-<p align="center"> &nbsp; <a href="https://www.linkedin.com/in/hknaksoyy/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="33" /></a>
-&nbsp; <a href="mailto:hkn.aksoyy@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="33" /></a>
+<p align="center"> &nbsp; <a href="https://www.linkedin.com/in/hknaksoyy/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="61" /></a>
+&nbsp; <a href="mailto:hkn.aksoyy@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="61" /></a>
 </p>
 
 <!--
