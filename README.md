@@ -1,7 +1,7 @@
 
 <h2> Hey there! I'm Hakan <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"> 
 </h2> 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/37q9y7WbvLAy3Wg90h/giphy.gif" width="300"/>
 
 - 🔭 &nbsp; I currently working on Application Server Project in  Multimedia Applications Design/Support.
 - 🎓 &nbsp; Graduated Computer Engineering.
