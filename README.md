@@ -1,9 +1,6 @@
 
 <h2> Hey there! I'm Hakan <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"> 
-<p align="center">
-&nbsp; <a href="https://www.linkedin.com/in/hknaksoyy/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="33" /></a>
-&nbsp; <a href="mailto:hkn.aksoyy@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="33" /></a>
-</p></h2> 
+<p align="center"></h2> 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
 
 - 🔭 &nbsp; I currently working on Application Server Project in  Multimedia Applications Design/Support.
@@ -12,6 +9,9 @@
 - 🌱 &nbsp; Cryptology and Security Protocol Design
 - ☕ &nbsp; I believe, table tennis can be the ultimate solution for any stress.. 
 
+&nbsp; <a href="https://www.linkedin.com/in/hknaksoyy/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="33" /></a>
+&nbsp; <a href="mailto:hkn.aksoyy@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="33" /></a>
+</p>
 
 <!--
 **Aksoyy/Aksoyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
