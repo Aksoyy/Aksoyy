@@ -3,11 +3,11 @@
 </h2> 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/37q9y7WbvLAy3Wg90h/giphy.gif" width="300"/>
 
-- 🔭 &nbsp; I currently working on Application Server Project in  Multimedia Applications Design/Support.
-- 🎓 &nbsp; Graduated Computer Engineering.
 - 💼 &nbsp; Backend  Developer at NETAS.
+- 🎓 &nbsp; Graduated Computer Engineering.
 - 🌱 &nbsp; Cryptology and Security Protocol Design
-- ☕ &nbsp; I believe, table tennis can be the ultimate solution for any stress.. 
+- ⚡ &nbsp; I believe, table tennis can be the ultimate solution for any stress..
+- 🔭 &nbsp; I currently working on Application Server Project in  Multimedia Applications Design/Support.
 
 <p align="center"> &nbsp; <a href="https://www.linkedin.com/in/hknaksoyy/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="61" /></a>
 &nbsp; <a href="mailto:hkn.aksoyy@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="61" /></a>
@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 -->
