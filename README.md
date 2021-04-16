@@ -6,7 +6,8 @@
 - 🔭 &nbsp; I currently working on Application Server Project in  Multimedia Applications Design/Support.
 - 💼 &nbsp; Backend  Developer at NETAS.
 - 🎓 &nbsp; Graduated Computer Engineering.
-- 🌱 &nbsp; Cryptology and Security Protocol Design
+- 👯 &nbsp; I like teamwork within project.
+- 🌱 &nbsp; Cryptology and Security Protocol Design.
 - ⚡ &nbsp; I believe, table tennis can be the ultimate solution for any stress..
 
 <p align="center"> &nbsp; <a href="https://www.linkedin.com/in/hknaksoyy/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="61" /></a>
