@@ -15,11 +15,12 @@
 &nbsp; <a href="mailto:hkn.aksoyy@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-![Aksoyy's Github Stats](https://github-readme-stats.vercel.app/api?username=aksoyy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
 <!--
 **Aksoyy/Aksoyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Aksoyy's Github Stats](https://github-readme-stats.vercel.app/api?username=aksoyy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 Here are some ideas to get you started:
 
