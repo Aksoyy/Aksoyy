@@ -1,5 +1,5 @@
 
-<h2> <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"> Welcome ~~~ I'm Hakan <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"> 
+<h2> <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"> ~~~ Welcome ~~~ <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"> 
 </h2> 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/37q9y7WbvLAy3Wg90h/giphy.gif" width="300"/>
 
