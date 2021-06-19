@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/37q9y7WbvLAy3Wg90h/giphy.gif" width="300"/>
 
 - 🔭 &nbsp; I currently working on Application Server Project in  Multimedia Applications Design/Support.
-- 💼 &nbsp; Backend  Developer at NETAS.
+- 💼 &nbsp; Software Developer at Sekerbank .
 - 🎓 &nbsp; Graduated Computer Engineering.
 - 👯 &nbsp; I like teamwork within project.
 - 🌱 &nbsp; Cryptology and Security Protocol Design.
