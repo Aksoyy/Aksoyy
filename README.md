@@ -3,11 +3,11 @@
 </h2> 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/37q9y7WbvLAy3Wg90h/giphy.gif" width="300"/>
 
-- 🔭 &nbsp; I currently working on POS and ATM in Paying System.
-- 💼 &nbsp; Software Developer at Sekerbank T.A.Ş.
 - 🎓 &nbsp; Graduated Computer Engineering.
 - 👯 &nbsp; I like teamwork within project.
 - 🌱 &nbsp; Cryptology and Security Protocol Design.
+- 🔭 &nbsp; I currently working on Call Center Development in ADK.
+- 💼 &nbsp; Software Developer for Denizbank, HSBC, Denizbank AG and Odeabank.
 - ⚡ &nbsp; I believe, table tennis can be the ultimate solution for any stress..
 
 <p align="center"> &nbsp; <a href="https://www.linkedin.com/in/hknaksoyy/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="61" /></a>
